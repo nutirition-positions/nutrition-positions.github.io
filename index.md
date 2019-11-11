@@ -10,7 +10,7 @@
 
 ## Overview 
 
-BowFolios is an example web application that provides pages to view and (in some cases) modify profiles, projects, and interests. It illustrates various technologies useful to ICS software engineering students, including:
+Nutrition Positions is a web application that provides pages to view and rate the restaurants and places on UH Manoa campus food can be acquired. It illustrates various technologies useful to ICS software engineering students, including:
 
 * [Meteor](https://www.meteor.com/) for Javascript-based implementation of client and server code. 
 * [React](https://reactjs.org/) for component-based UI implementation and routing.
@@ -30,7 +30,7 @@ It also provides code that implements a variety of useful design concepts, inclu
 
 ## User Guide
 
-This section provides a walkthrough of the Bowfolios user interface and its capabilities. 
+This section provides a walkthrough of the Nutrition Positions user interface and its capabilities. 
 
 ### Landing Page
 
