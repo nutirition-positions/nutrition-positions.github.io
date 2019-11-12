@@ -10,23 +10,12 @@
 
 ## Overview 
 
-Nutrition Positions is a web application that provides pages to view and rate the restaurants and places on UH Manoa campus food can be acquired. It illustrates various technologies useful to ICS software engineering students, including:
+Nutrition Positions is a web application that provides pages to view and rate the restaurants and places on UH Manoa campus where food can be acquired. It illustrates various technologies including:
 
 * [Meteor](https://www.meteor.com/) for Javascript-based implementation of client and server code. 
 * [React](https://reactjs.org/) for component-based UI implementation and routing.
 * [Semantic UI React](https://react.semantic-ui.com/) CSS Framework for UI design.
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
-
-It also provides code that implements a variety of useful design concepts, including:
-
-* Three primary collections (Profiles, Projects, Interests) as well as three "join" Collections (ProfilesInterests, ProfilesProjects, and ProjectsInterests) that implement many-to-many relationships between them.
-* Top-level index pages (Profiles, Interests, and Projects) that show how to manipulate these six collections in various ways.
-* Initialization code to define default Profiles, Interests, and Projects and relations between them.
-* A simple Filter page to illustrate how to perform simple queries on the database and display the results.  
-* Use of Meteor Methods to illustrate how to simplify implementation of multiple collection updates.
-* Use of indexes to enforce uniqueness of certain fields in the collections, enabling them to serve as primary keys.
-* Authentication using the built-in Meteor accounts package along with Sign Up and Sign In pages.   
-* Authorization examples: certain pages are public (Profiles, Projects, Interests), while other pages require login (AddProject, Filter).
 
 ## User Guide
 
@@ -38,17 +27,17 @@ The landing page is presented to users when they visit the top-level URL to the 
 
 ![](images/landing-page.png)
 
-### Index pages (Projects, Profiles, Interests)
+### Index pages (FindFood, Map, )
 
-Bowfolios provides three public pages that present the contents of the database organized in various ways. 
+Nutrition Positions provides three??? public pages that present the contents of the database organized in various ways. 
 
-The Profiles page shows all the current defined profiles and their associated Projects and Interests:
+The FindFood page shows all of the food places and lets you search through them all with filters:
 
-![](images/profiles-page.png)
+![](images/findfood-page.png)
 
-The Projects page shows all of the currently defined Projects and their associated Profiles and Interests:
+The Map page shows a map with various pins at the places you can get food:
 
-![](images/projects-page.png)
+![](images/map-page.png)
 
 Finally, the Interests page shows all the currently defined Interests, and their associated Profiles and Projects:
 
@@ -67,15 +56,15 @@ Alternatively, you can select "Sign up" to go to the following page and register
 
 ### Home page
   
-After logging in, you are taken to the home page, which presents a form where you can complete and/or update your personal profile:
+After logging in, you are taken to the FindFood page:
 
 ![](images/home-page.png)
 
 ### Add Project page
 
-Once you are logged in, you can define new projects with the Add Project page:
+Once you are logged in, you can add reviews on the Review page which lets you pick from each of the restaurants and review them:
 
-![](images/add-project-page.png)
+![](images/review-page.png)
 
 
 ### Filter page
