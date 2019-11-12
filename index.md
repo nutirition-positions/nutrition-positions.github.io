@@ -7,6 +7,7 @@ Nutrition Positions is a web application that provides pages to locate, rate, an
 * [Semantic UI React](https://react.semantic-ui.com/) CSS Framework for UI design.
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
 
+The project is currently in the stage of cementing the look of the web application as well as creating the layout of each of the pages and components for the various pages. The app will keep track of the restaurants by using collections including but not limited to Restaurants and Reviews.
 
 ## Project Pages
 
@@ -14,7 +15,7 @@ This section provides a walkthrough of the Nutrition Positions user interface an
 
 ### Landing Page
 
-The landing page is presented to users when they visit the top-level URL to the site. 
+The landing page is presented to users when they visit the top-level URL to the site. It will have a description of the purpose and features of Nutrition Positions.
 
 ![](images/landing-page.png)
 
@@ -22,7 +23,7 @@ The landing page is presented to users when they visit the top-level URL to the 
 
 Nutrition Positions provides two public pages that present the contents of the database organized in various ways. 
 
-The FindFood page shows all of the food places and lets you search through them all with filters:
+The FindFood page shows all of the food places and lets you search through them all with filters. Filters will include things such as food type (mexican, thai, hawaiian, etc...), if they're currently open, or by user reviews. Each restaurant will have user reviews and ratings that can be read on this page and the reviews will also provide a way to sort by place with highest ratings:
 
 ![](images/findfood-page.png)
 
@@ -41,15 +42,15 @@ Alternatively, you can select "Sign up" to go to the following page and register
 
 ![](images/signup-page.png)
 
-### Home page
-  
-After logging in, you are taken to the FindFood page:
-
-![](images/home-page.png)
-
 ### Review page
 
 Once you are logged in, you can add reviews on the Review page which lets you pick from each of the restaurants and review them:
 
 ![](images/review-page.png)
+
+### Submit Eatery
+
+Logged in users will also be able to submit new restaurants to the website which will then be subject to approval by site admins before being published.
+
+![](images/submit-eatery-page.png)
 
