@@ -29,7 +29,7 @@ The FindFood page shows all of the food places and lets you search through them 
 
 The Map page shows a map with various pins at the places you can get food:
 
-![](images/map-page.png)
+![](images/Map-page.jpg)
 
 
 ### Sign in and sign up
