@@ -1,23 +1,14 @@
-## Table of contents
-
-* [Overview](#overview)
-* [User Guide](#user-guide)
-* [Community Feedback](#community-feedback)
-* [Developer Guide](#developer-guide)
-* [Development History](#development-history)
-* [Walkthrough videos](#walkthrough-videos)
-* [Example enhancements](#example-enhancements)
-
 ## Overview 
 
-Nutrition Positions is a web application that provides pages to view and rate the restaurants and places on UH Manoa campus where food can be acquired. It illustrates various technologies including:
+Nutrition Positions is a web application that provides pages to locate, view the menus of and rate the restaurants and food places on UH Manoa campus. It will illustrate various technologies including:
 
 * [Meteor](https://www.meteor.com/) for Javascript-based implementation of client and server code. 
 * [React](https://reactjs.org/) for component-based UI implementation and routing.
 * [Semantic UI React](https://react.semantic-ui.com/) CSS Framework for UI design.
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
 
-## User Guide
+
+## Project Pages
 
 This section provides a walkthrough of the Nutrition Positions user interface and its capabilities. 
 
