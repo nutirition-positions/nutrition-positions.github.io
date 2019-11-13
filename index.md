@@ -7,9 +7,7 @@ Nutrition Positions is a web application that provides pages to locate, rate, an
 * [Semantic UI React](https://react.semantic-ui.com/) CSS Framework for UI design.
 * [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
 
-The project is currently in the stage of cementing the look of the web application as well as creating the layout of each of the pages and components for the various pages. The app will keep track of the restaurants by using collections including but not limited to Restaurants and Reviews.
-
-## Group Members
+### Group Members
 
 Ryan Ell
 - Student working on a B.S. in Math with Data Science 
@@ -27,7 +25,10 @@ James Lau
 - info for stuff should go here, maybe link to personal website
 
 
-## Current Progress
+### Current Progress
+
+The project is currently in the stage of cementing the look of the web application as well as creating the layout of each of the pages and components for the various pages. The app will keep track of the restaurants by using collections including but not limited to Restaurants and Reviews.
+
 [Milestone 1](https://github.com/nutrition-positions/eatereez/projects/1) shows the current status of the project as it heads towards the first milestone, which is a mockup of each of the project pages.
 
 ## Project Pages
