@@ -9,7 +9,7 @@ Nutrition Positions is a web application that provides pages to locate, rate, an
 
 The project is currently in the stage of cementing the look of the web application as well as creating the layout of each of the pages and components for the various pages. The app will keep track of the restaurants by using collections including but not limited to Restaurants and Reviews.
 
-## Group Memebers
+## Group Members
 
 Ryan Ell
 - Student working on a B.S. in Math with Data Science 
@@ -24,7 +24,7 @@ Colin Jackson
 
 
 James Lau
--info for stuff should go here, maybe link to personal website
+- info for stuff should go here, maybe link to personal website
 
 
 ## Milestone 1 project page
