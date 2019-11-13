@@ -12,16 +12,23 @@ The project is currently in the stage of cementing the look of the web applicati
 ## Group Memebers
 
 Ryan Ell
-- info for stuff should go here
+- Student working on a B.S. in Math with Data Science 
+- Hoping to contribute to the design/layout of the project as well as help manage the team members and learn more about software development
+- [More info](https://ryanell.github.io)
 
 Tommy Herman
-- 
+- info for stuff should go here, maybe link to personal website
 
 Colin ___
-- 
+- info for stuff should go here, maybe link to personal website
+
 
 James Lau
--
+-info for stuff should go here, maybe link to personal website
+
+
+## Milestone 1 project page
+[Milestone 1](https://github.com/nutrition-positions/eatereez/projects/1)
 
 ## Project Pages
 
