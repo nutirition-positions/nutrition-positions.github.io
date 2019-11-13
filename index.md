@@ -27,8 +27,8 @@ James Lau
 - info for stuff should go here, maybe link to personal website
 
 
-## Milestone 1 project page
-[Milestone 1](https://github.com/nutrition-positions/eatereez/projects/1)
+## Current Progress
+[Milestone 1](https://github.com/nutrition-positions/eatereez/projects/1) shows the current status of the project as it heads towards the first milestone, which is a mockup of each of the project pages.
 
 ## Project Pages
 
