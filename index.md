@@ -19,7 +19,7 @@ Ryan Ell
 Tommy Herman
 - info for stuff should go here, maybe link to personal website
 
-Colin ___
+Colin Jackson
 - info for stuff should go here, maybe link to personal website
 
 
