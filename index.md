@@ -1,6 +1,6 @@
 ## Overview 
 
-Nutrition Positions is a web application that provides pages to locate, rate, and view the menus of the restaurants and food places on UH Manoa campus. It will illustrate various technologies including:
+Nutrition Positions is a web application that provides pages to locate, rate, and view the menus of the restaurants and other food places on the UH Manoa campus. In addition, it will be able to search for restaurants based on both meal preferences (e.g. burrito) and dietary restrictions (e.g. vegetarian, gluten-free, etc.).  It will illustrate various technologies including:
 
 * [Meteor](https://www.meteor.com/) for Javascript-based implementation of client and server code. 
 * [React](https://reactjs.org/) for component-based UI implementation and routing.
