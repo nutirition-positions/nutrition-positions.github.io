@@ -50,7 +50,7 @@ The landing page is presented to users when they visit the top-level URL to the 
 
 ### Index pages (FindFood, Map, Restaurant page)
 
-Nutrition Positions provides two public pages that present the contents of the database organized in various ways. 
+Nutrition Positions provides three public pages that present the contents of the database organized in various ways. 
 
 The FindFood page shows all of the food places and lets you search through them all with filters. Filters will include things such as food type (mexican, thai, hawaiian, etc...), if they're currently open, or by user reviews. Each restaurant will have user reviews and ratings that can be read on this page and the reviews will also provide a way to sort by place with highest ratings:
 
