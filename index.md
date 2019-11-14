@@ -26,7 +26,10 @@ Colin Jackson
 
 
 James Lau
-- info for stuff should go here, maybe link to personal website
+- Junior majoring in BS in Computer Science with a focus in Cyber Sercuity.
+- Interested in both software engineering and cyber security.
+- Java is my favorite programming language.
+- More info at https://jklaulau.github.io/
 
 
 ### Current Progress
