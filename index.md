@@ -54,7 +54,7 @@ Nutrition Positions provides two public pages that present the contents of the d
 
 The FindFood page shows all of the food places and lets you search through them all with filters. Filters will include things such as food type (mexican, thai, hawaiian, etc...), if they're currently open, or by user reviews. Each restaurant will have user reviews and ratings that can be read on this page and the reviews will also provide a way to sort by place with highest ratings:
 
-![](images/findfood-page.png)
+![](images/list-restaurants.png)
 
 The Map page shows a map with various pins at the places you can get food:
 
@@ -62,7 +62,7 @@ The Map page shows a map with various pins at the places you can get food:
 
 The Restaurant page will be able to show more details about specfic restaurants that the user searches for on the application.
 
-![](images/Restauarnat.jpg)
+![](images/restaurant-page.png)
 
 ### Sign in and sign up
 
