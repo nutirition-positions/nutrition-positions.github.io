@@ -20,7 +20,7 @@ Tommy Herman
 - Practiced in operating and repairing air separation units and nuclear reactors, now looking to adapt industrial experience to software development projects
 - Seeking to apply computer skills to tackle a larger programming project coordinating with a team
 - Learned in HTML, Java, C++, Javascript, and BASIC languages
-- More details on can be found [here](https://hermantw.github.io)
+- More details can be found [here](https://hermantw.github.io)
 
 Colin Jackson
 - Student working on a B.S. in Computer Science w/ focus in Security Science
