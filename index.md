@@ -16,7 +16,10 @@ Ryan Ell
 - Further details about my escapades can be found [here](https://ryanell.github.io)
 
 Tommy Herman
-- info for stuff should go here, maybe link to personal website
+- Studying Computer Science to earn a B.S.  
+- Seeking to apply computer skills to tackle a larger programming project coordinating with a team
+- Experienced with HTML, Java, C++, Javascript, and BASIC languages
+- Further details about  can be found [here](https://hermantw.github.io)
 
 Colin Jackson
 - Student working on a B.S. in Computer Science w/ focus in Security Science
@@ -34,7 +37,7 @@ James Lau
 
 ### Current Progress
 
-The project is currently in the stage of cementing the look of the web application as well as creating the layout of each of the pages and components for the various pages. The app will keep track of the restaurants by using collections including but not limited to Restaurants and Reviews.
+The project is currently in the stage of cementing the look of the web application, as well as creating the components and layouts of each of the planned pages. The app will keep track of the restaurants by using collections including but not limited to Restaurants and Reviews.
 
 [Milestone 1](https://github.com/nutrition-positions/eatereez/projects/1) shows the current status of the project as it heads towards the first milestone, which is a mockup of each of the project pages.
 
@@ -52,7 +55,7 @@ The landing page is presented to users when they visit the top-level URL to the 
 
 Nutrition Positions provides three public pages that present the contents of the database organized in various ways. 
 
-The FindFood page shows all of the food places and lets you search through them all with filters. Filters will include things such as food type (mexican, thai, hawaiian, etc...), if they're currently open, or by user reviews. Each restaurant will have user reviews and ratings that can be read on this page and the reviews will also provide a way to sort by place with highest ratings:
+The FindFood page displays a list of restaurants, with the ability to be filtered by food type (Mexican, Thai, Hawaiian, etc...), whether they are currently open, and ratings. Each restaurant will also have the most upvoted user reviews, and an average rating which will allow the list to be sorted based on those ratings:
 
 ![](images/list-restaurants.png)
 
@@ -60,7 +63,7 @@ The Map page shows a map with various pins at the places you can get food:
 
 ![](images/Map-page.jpg)
 
-The Restaurant page will be able to show more details about specfic restaurants that the user searches for on the application.
+The Restaurant page will show even more details about each restaurant, such as their menu and the full list of reviews:
 
 ![](images/restaurant-page.png)
 
@@ -82,7 +85,7 @@ Once you are logged in, you can add reviews on the Review page which lets you pi
 
 ### Submit Eatery
 
-Logged in users will also be able to submit new restaurants to the website which will then be subject to approval by site admins before being published.
+Logged in users will also be able to submit new restaurants to the website, which will then be subject to approval by site admins before being published.
 
 ![](images/submit-eatery-page.png)
 
