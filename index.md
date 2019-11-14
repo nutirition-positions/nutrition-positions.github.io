@@ -16,9 +16,10 @@ Ryan Ell
 - Further details about my escapades can be found [here](https://ryanell.github.io)
 
 Tommy Herman
-- Studying Computer Science to earn a B.S.  
+- Studying Computer Science to earn a B.S.
+- Experienced in operating and repairing air separation units and nuclear reactors, now looking to gain knowledge and experience in software development projects
 - Seeking to apply computer skills to tackle a larger programming project coordinating with a team
-- Experienced with HTML, Java, C++, Javascript, and BASIC languages
+- Learned in HTML, Java, C++, Javascript, and BASIC languages
 - Further details about  can be found [here](https://hermantw.github.io)
 
 Colin Jackson
