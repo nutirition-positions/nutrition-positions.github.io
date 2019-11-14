@@ -45,7 +45,7 @@ The landing page is presented to users when they visit the top-level URL to the 
 
 ![](images/landing-page.png)
 
-### Index pages (FindFood, Map)
+### Index pages (FindFood, Map, Restaurant page)
 
 Nutrition Positions provides two public pages that present the contents of the database organized in various ways. 
 
@@ -57,6 +57,9 @@ The Map page shows a map with various pins at the places you can get food:
 
 ![](images/Map-page.jpg)
 
+The Restaurant page will be able to show more details about specfic restaurants that the user searches for on the application.
+
+![](images/Restauarnat.jpg)
 
 ### Sign in and sign up
 
