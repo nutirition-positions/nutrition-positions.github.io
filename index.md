@@ -19,7 +19,10 @@ Tommy Herman
 - info for stuff should go here, maybe link to personal website
 
 Colin Jackson
-- info for stuff should go here, maybe link to personal website
+- Student working on a B.S. in Computer Science w/ focus in Security Science
+- Hoping to gain a deeper understanding of how websites handle data base queries and potentially tackle a screen scraping script
+- Have skills in Linux, Cryptography, Networks, and password cracking
+- More info on my latest project can be found [here](https://colinj23.github.io
 
 
 James Lau
