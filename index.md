@@ -13,7 +13,7 @@ Ryan Ell
 - Student working on a B.S. in Math with Data Science 
 - Hoping to contribute to the design/layout of the project as well as help manage the team members and learn more about software development
 - Has skills in Photoshop, layout and design and software development from taking ICS 314 in college
-- [More info](https://ryanell.github.io)
+- Further details about my escapades can be found [here](https://ryanell.github.io)
 
 Tommy Herman
 - info for stuff should go here, maybe link to personal website
