@@ -13,7 +13,7 @@ Ryan Ell
 - Student working on a B.S. in Math with Data Science 
 - Hoping to contribute to the design/layout of the project as well as help manage the team members and learn more about software development
 - Has skills in Photoshop, layout and design and software development from taking ICS 314 in college
-- Further details about my escapades can be found [here](https://ryanell.github.io)
+- Further details about their escapades can be found [here](https://ryanell.github.io)
 
 Tommy Herman
 - Studying Computer Science to earn a B.S.
@@ -26,13 +26,13 @@ Colin Jackson
 - Student working on a B.S. in Computer Science w/ focus in Security Science
 - Hoping to gain a deeper understanding of how websites handle data base queries and potentially tackle a screen scraping script
 - Have skills in Linux, Cryptography, Networks, and password cracking
-- More info on my latest project can be found on my [portfolio](https://colinj23.github.io)
+- More info on latest project can be found on my [portfolio](https://colinj23.github.io)
 
 
 James Lau
 - Junior majoring in BS in Computer Science with a focus in Cyber Sercuity.
 - Interested in both software engineering and cyber security.
-- Java is my favorite programming language.
+- Favorite programming language: Java.
 - More info at https://jklaulau.github.io/
 
 
