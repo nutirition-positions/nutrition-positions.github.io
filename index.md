@@ -55,7 +55,7 @@ Alternatively, you can select "Sign up" to go to the following page and register
 
 Once you are logged in, you can add reviews on the Review page which lets you pick from each of the restaurants and review them:
 
-![](images/review-page.png)
+![](images/submit-review-page.png)
 
 ### Submit Eatery
 
