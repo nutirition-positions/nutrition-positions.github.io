@@ -1,3 +1,4 @@
+![](images/landing-page.png)
 ## Overview 
 
 Nutrition Positions is a web application that provides pages to locate, rate, and view the menus of the restaurants and other food places on the UH Manoa campus. In addition, it will be able to search for restaurants based on both meal preferences (e.g. burrito) and dietary restrictions (e.g. vegetarian, gluten-free, etc.).  It will illustrate various technologies including:
