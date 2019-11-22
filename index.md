@@ -35,7 +35,7 @@ Eatereez provides three public pages that present the contents of the database o
 
 The [FindFood](http://eatereez.meteorapp.com/#/food) page displays a list of restaurants, with the ability to be filtered by food type (Mexican, Thai, Hawaiian, etc...), whether they are currently open, and ratings. Each restaurant will also have the most liked user reviews, and an average rating which can be applied towards sorting restaurants by those ratings:
 
-![](images/list-restaurants.png)
+![](images/list-restaurants2.png)
 
 The [Map](http://eatereez.meteorapp.com/#/map) page shows a map with various pins at the places you can get food:
 
