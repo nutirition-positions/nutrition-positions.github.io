@@ -43,7 +43,7 @@ The [Map](http://eatereez.meteorapp.com/#/map) page shows a map with various pin
 
 The [Restaurant](http://eatereez.meteorapp.com/#/) page will show even more details about each restaurant, such as their menu and the full list of reviews:
 
-![](images/restaurant-page.png)
+![](images/restaurant-details-page.png)
 
 ### Sign in and sign up
 
