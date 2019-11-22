@@ -25,45 +25,45 @@ This section provides a walkthrough of the Eatereez user interface and its capab
 
 ### Landing Page
 
-The landing page is presented to users when they visit the top-level URL to the site. It will have a description of the purpose and features of Eatereez.
+The [landing page](http://eatereez.meteorapp.com/#/) is presented to users when they visit the top-level URL to the site. It will have a description of the purpose and features of Eatereez.
 
 ![](images/landing-page.png)
 
-### Index pages (FindFood, Map, Restaurant page)
+### Index pages (FindFood, Map, Restaurant pages)
 
 Eatereez provides three public pages that present the contents of the database organized in various ways. 
 
-The FindFood page displays a list of restaurants, with the ability to be filtered by food type (Mexican, Thai, Hawaiian, etc...), whether they are currently open, and ratings. Each restaurant will also have the most liked user reviews, and an average rating which can be applied towards sorting restaurants by those ratings:
+The [FindFood](http://eatereez.meteorapp.com/#/food) page displays a list of restaurants, with the ability to be filtered by food type (Mexican, Thai, Hawaiian, etc...), whether they are currently open, and ratings. Each restaurant will also have the most liked user reviews, and an average rating which can be applied towards sorting restaurants by those ratings:
 
 ![](images/list-restaurants.png)
 
-The Map page shows a map with various pins at the places you can get food:
+The [Map](http://eatereez.meteorapp.com/#/map) page shows a map with various pins at the places you can get food:
 
 ![](images/map-page.png)
 
-The Restaurant page will show even more details about each restaurant, such as their menu and the full list of reviews:
+The [Restaurant](http://eatereez.meteorapp.com/#/) page will show even more details about each restaurant, such as their menu and the full list of reviews:
 
 ![](images/restaurant-page.png)
 
 ### Sign in and sign up
 
-Click on the "Login" button in the upper right corner of the navbar, then select "Sign in" to go to the following page and login. You must have been previously registered with the system to use this option:
+Click on the ["Login"](http://eatereez.meteorapp.com/#/signin) button in the upper right corner of the navbar, then select "Sign in" to go to the following page and login. You must have been previously registered with the system to use this option:
  
 ![](images/signin-page.png)
   
-Alternatively, you can select "Sign up" to go to the following page and register as a new user:
+Alternatively, you can select ["Sign up"](http://eatereez.meteorapp.com/#/signup) to go to the following page and register as a new user:
 
 ![](images/signup-page.png)
 
 ### Review page
 
-Once you are logged in, you can add reviews on the Review page which lets you pick from each of the restaurants and review them:
+Once you are logged in, you can add reviews on the [Review](http://eatereez.meteorapp.com/#/review) page which lets you pick from each of the restaurants and review them:
 
 ![](images/submit-review-page.png)
 
 ### Submit Eatery
 
-Logged in users will also be able to submit new restaurants to the website, which will then be subject to approval by site admins before being published.
+Logged in users will also be able to [submit new restaurants](http://eatereez.meteorapp.com/#/submit-restaurant) to the website, which will then be subject to approval by site admins before being published.
 
 ![](images/submit-eatery-page.png)
 
