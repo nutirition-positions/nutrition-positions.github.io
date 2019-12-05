@@ -19,7 +19,7 @@ Currently Eatereez is undergoing the last stage before full launch. Our final go
 
 [Milestone 2](https://github.com/nutrition-positions/eatereez/projects/2) shows the current status of the project as it heads towards the second milestone, which involves creating functional webpages for the website.
 
-[Milestone 3](https://github.com/nutrition-positions/eatereez/projects/3) shows the current status of the project as it heads towards the last milestone, which involves creating functional webpages for the website.
+[Milestone 3](https://github.com/nutrition-positions/eatereez/projects/3) shows the current status of the project as it heads towards the last milestone. This milestone includes making the pages more pleasing to the eye and the implementation of the map.
 
 ## Project Pages
 
@@ -35,7 +35,7 @@ The [landing page](http://eatereez.meteorapp.com/#/) is presented to users when 
 
 Eatereez provides three public pages that present the contents of the database organized in various ways. 
 
-The [FindFood](http://eatereez.meteorapp.com/#/food) page displays a list of restaurants, with the ability to be filtered by food type (Mexican, Thai, Hawaiian, etc...), whether they are currently open, and ratings. Each restaurant will also have the most liked user reviews, and an average rating which can be applied towards sorting restaurants by those ratings:
+The [FindFood](http://eatereez.meteorapp.com/#/food) page displays a list of restaurants, with the ability to be filtered by food type (Hawaiian, Chinese, Sandwiches, etc...), whether they are currently open, and ratings. Each restaurant will also have the most liked user reviews, and an average rating which can be applied towards sorting restaurants by those ratings:
 
 ![](images/Restaurant List-MS2.png)
 
