@@ -19,7 +19,7 @@ Currently Eatereez is undergoing the last stage before full launch. Our final go
 
 [Milestone 2](https://github.com/nutrition-positions/eatereez/projects/2) shows the current status of the project as it heads towards the second milestone, which involves creating functional webpages for the website.
 
-[Milestone 3](https://github.com/nutrition-positions/eatereez/projects/3) shows the current status of the project as it heads towards the second milestone, which involves creating functional webpages for the website.
+[Milestone 3](https://github.com/nutrition-positions/eatereez/projects/3) shows the current status of the project as it heads towards the last milestone, which involves creating functional webpages for the website.
 
 ## Project Pages
 
