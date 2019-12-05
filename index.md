@@ -13,11 +13,13 @@ The web application is displayed here:
 
 ### Current Progress
 
-The project is currently in the stage of cementing the look of the web application, as well as creating the components and layouts of each of the planned pages. The app will keep track of the restaurants by using collections including but not limited to Restaurants and Reviews.
-
+Currently Eatereez is undergoing the last stage before full launch. Our final goals is to give the application an aesthetic touch which includes an overhaul of the landing page, restaurant page, and other small things. Including to our goals is to complete the implementation of the reviews and maps for all restaurants. 
+ 
 [Milestone 1](https://github.com/nutrition-positions/eatereez/projects/1) shows the current status of the project at the completion of the first milestone, which includes mockups of each of the project pages.
 
 [Milestone 2](https://github.com/nutrition-positions/eatereez/projects/2) shows the current status of the project as it heads towards the second milestone, which involves creating functional webpages for the website.
+
+[Milestone 3](https://github.com/nutrition-positions/eatereez/projects/3) shows the current status of the project as it heads towards the second milestone, which involves creating functional webpages for the website.
 
 ## Project Pages
 
@@ -25,7 +27,7 @@ This section provides a walkthrough of the Eatereez user interface and its capab
 
 ### Landing Page
 
-The [landing page](http://eatereez.meteorapp.com/#/) is presented to users when they visit the top-level URL to the site. It will have a description of the purpose and features of Eatereez.
+The [landing page](http://eatereez.meteorapp.com/#/) is presented to users when they visit the top-level URL to the site. It will have a description of the purpose and features of Eatereez. This will change in completion of Milestone 3.
 
 ![](images/landing-page.png)
 
@@ -43,7 +45,7 @@ The [Map](http://eatereez.meteorapp.com/#/map) page shows a map with various pin
 
 The [Restaurant](http://eatereez.meteorapp.com/#/restaurant) page will show even more details about each restaurant, such as their menu and the full list of reviews:
 
-![](images/restaurant-details-page.png)
+![](images/Restaurant Details-MS2.png)
 
 ### Sign in and sign up
 
