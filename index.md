@@ -11,15 +11,15 @@ Eatereez is a web application that provides pages to locate, rate, and view the 
 The web application is displayed here:
 [Eatereez](http://eatereez.meteorapp.com/#/)
 
-### Current Progress
+### Project Milestones
 
-Currently Eatereez is undergoing the last stage before full launch. Our final goals is to give the application an aesthetic touch which includes an overhaul of the landing page, restaurant page, and other small things. Including to our goals is to complete the implementation of the reviews and maps for all restaurants. 
+Eatereez has completed each of its milestones by the launch deadline, which are listed below
  
 [Milestone 1](https://github.com/nutrition-positions/eatereez/projects/1) shows the current status of the project at the completion of the first milestone, which includes mockups of each of the project pages.
 
 [Milestone 2](https://github.com/nutrition-positions/eatereez/projects/2) shows the current status of the project as it heads towards the second milestone, which involves creating functional webpages for the website.
 
-[Milestone 3](https://github.com/nutrition-positions/eatereez/projects/3) shows the current status of the project as it heads towards the last milestone. This milestone includes making the pages more pleasing to the eye and the implementation of the map.
+[Milestone 3](https://github.com/nutrition-positions/eatereez/projects/3) shows the tasks completed in the last milestone. This milestone's goal was to give the application an aesthetic touch which includes an overhaul of the landing page, restaurant page, and other small things. Included in our goals is to complete the implementation of the restaurant reviews and map. After some user reviews, a lot of functionality was added for the admin to be able to better control the website.
 
 ## User Guide
 
@@ -31,11 +31,11 @@ The [landing page](http://eatereez.meteorapp.com/#/) is presented to users when 
 
 ![](images/landing-page.png)
 
-### Index pages (FindFood, Map, Restaurant pages)
+### Index pages (Find Food, Map, and Restaurant Details pages)
 
-Eatereez provides three public pages that present the contents of the database organized in various ways. 
+Eatereez provides four public pages that present the contents of the database organized in various ways. 
 
-The [FindFood](http://eatereez.meteorapp.com/#/food) page displays a list of restaurants, with the ability to be filtered by food type (Hawaiian, Chinese, Sandwiches, etc...), whether they are currently open, and ratings. Each restaurant will also have the most liked user reviews, and an average rating which can be applied towards sorting restaurants by those ratings:
+The [Find Food](http://eatereez.meteorapp.com/#/food) page displays a list of restaurants, with the ability to be filtered by food type (Hawaiian, Chinese, Sandwiches, etc...), location, and dietary preference (Vegan, vegetarian). Each restaurant will also have an average rating displayed:
 
 ![](images/Restaurant List-MS2.png)
 
@@ -43,7 +43,7 @@ The [Map](http://eatereez.meteorapp.com/#/map) page shows a map with various pin
 
 ![](images/Map-MS2.png)
 
-The [Restaurant](http://eatereez.meteorapp.com/#/restaurant) page will show even more details about each restaurant, such as their menu and the full list of reviews:
+The [Restaurant Details](http://eatereez.meteorapp.com/#/details/cd8Yp98TZpR4fnpqT) pages shows even more details about each restaurant, such as their menu, full description and the full list of reviews:
 
 ![](images/Restaurant Details-MS2.png)
 
@@ -57,11 +57,13 @@ Alternatively, you can select ["Sign up"](http://eatereez.meteorapp.com/#/signup
 
 ![](images/signup-page.png)
 
-### Review page
+### User Reviews
 
-Once you are logged in, you can add reviews on the [Review](http://eatereez.meteorapp.com/#/review) page which lets you pick from each of the restaurants and review them:
+Once you are logged in, you can add reviews on the [Restaurant Details](http://eatereez.meteorapp.com/#/) page of each restaurant, as well as report the reviews of other users.
 
 ![](images/submit-review-page.png)
+
+![](images/report-page.png)
 
 ### Submit Eatery
 
