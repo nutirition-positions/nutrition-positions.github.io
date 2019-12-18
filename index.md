@@ -24,9 +24,9 @@ Eatereez has completed each of its milestones by the launch deadline, which are 
 ### Table of Contents
 * [User Guide](#user-guide)
 * [Landing Page](#landing-page)
-* [Index Pages](#index-pages)
-* [Sign in and sign up](#sign-in-and-sing-up)
-* [User Reviews](#users-review)
+* [Index Pages](#index-pages-(-find-food,-map,-and-restaurant-details-pages))
+* [Sign in and sign up](#sign-in-and-sign-up)
+* [User Reviews](#user-review)
 * [Map](#map)
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
