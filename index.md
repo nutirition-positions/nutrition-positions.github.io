@@ -25,6 +25,10 @@ Eatereez has completed each of its milestones by the launch deadline, which are 
 
 Logging In:
 
+To sign, click on login at the top right of any page. You are logged if it displays your email.
+
+// signin
+
 Searching For Restaurants:
 
 There are two ways of searching for restaurant. 
@@ -51,6 +55,9 @@ At the bottom, you can write your review here. Give your review title, the numbe
 
 Using the Map:
 
+You can navigate to the map via the top navbar. There are pins where the restaurants are located. By clicking the pins, you can see what restaurants there and a link to more information.
+
+// image
 
 ### Landing Page
 
