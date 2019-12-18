@@ -73,7 +73,14 @@ Logged in users will also be able to [submit new restaurants](http://eatereez.me
 
 ### Community Feedback
 
+Jaylin Kuoha (Food loving Mathematics Major)
+- Could use something extra to fill in the white space
+- I like that there's a menu for each of the restaurants listed
+- The colors are nice on the eyes
 
+Matthew Mackenzie (At the time starving Geology Major)
+- It's pretty impressive, but I don't like the green bar at the bottom having a bunch of white below it
+- The logo is pretty gnar
 
 ### Group Members
 [Ryan Ell](https://ryanell.github.io)
