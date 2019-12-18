@@ -24,9 +24,9 @@ Eatereez has completed each of its milestones by the launch deadline, which are 
 ### Table of Contents
 * [User Guide](#user-guide)
 * [Landing Page](#landing-page)
-* [Index Pages](#index-pages-(-find-food,-map,-and-restaurant-details-pages))
+* [Index Pages](#index-pages)
 * [Sign in and sign up](#sign-in-and-sign-up)
-* [User Reviews](#user-review)
+* [User Reviews](#user-reviews)
 * [Map](#map)
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
@@ -88,9 +88,9 @@ Third section has a picture carousel with three random restaurants of the list. 
 The fourth section is a reminder to login so that the user can take advantage of all functionalities such as making comments or reporting comments.
 ![](images/LandingPage-Info2.png)
 
-## Index pages (Find Food, Map, and Restaurant Details pages)
+## Index pages 
 
-Eatereez provides four public pages that present the contents of the database organized in various ways. 
+Eatereez provides four public pages (Find Food, Map, and Restaurant Details pages) that present the contents of the database organized in various ways. 
 
 The [Find Food](http://eatereez.meteorapp.com/#/food) page displays a list of restaurants, with the ability to be filtered by food type (Hawaiian, Chinese, Sandwiches, etc...), location, and dietary preference (Vegan, vegetarian). Each restaurant will also have an average rating displayed:
 
