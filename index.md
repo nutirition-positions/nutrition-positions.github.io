@@ -21,7 +21,18 @@ Eatereez has completed each of its milestones by the launch deadline, which are 
 
 [Milestone 3](https://github.com/nutrition-positions/eatereez/projects/3) shows the tasks completed in the last milestone. This milestone's goal was to give the application an aesthetic touch which includes an overhaul of the landing page, restaurant page, and other small things. Included in our goals is to complete the implementation of the restaurant reviews and map. After some user reviews, a lot of functionality was added for the admin to be able to better control the website.
 
-### User Guide
+### Table of Contents
+* [User Guide](#user-guide)
+* [Landing Page](#landing-page)
+* [Index Pages](#index-pages)
+* [Sign in and sign up](#sign-in-and-sing-up)
+* [User Reviews](#users-review)
+* [Map](#map)
+* [Community Feedback](#community-feedback)
+* [Developer Guide](#developer-guide)
+
+
+## User Guide
 
 Logging In:
 
@@ -59,7 +70,7 @@ You can navigate to the map via the top navbar. There are pins where the restaur
 
 ![](images/MapMarkers.png)
 
-### Landing Page
+## Landing Page
 
 The [landing page](http://eatereez.meteorapp.com/#/) is presented to users when they visit the top-level URL to the site. It has a description of the purpose and features of Eatereez. The landing page contains four sections. 
 ![](images/LandingPage-M3.png)
@@ -76,7 +87,7 @@ Third section has a picture carousel with three random restaurants of the list. 
 The fourth section is a reminder to login so that the user can take advantage of all functionalities such as making comments or reporting comments.
 ![](images/LandingPage-Info2.png)
 
-### Index pages (Find Food, Map, and Restaurant Details pages)
+## Index pages (Find Food, Map, and Restaurant Details pages)
 
 Eatereez provides four public pages that present the contents of the database organized in various ways. 
 
@@ -92,7 +103,7 @@ The [Restaurant Details](http://eatereez.meteorapp.com/#/details/cd8Yp98TZpR4fnp
 
 ![](images/RestaurantDetails-M3.png)
 
-### Sign in and sign up
+## Sign in and sign up
 
 Click on the ["Login"](http://eatereez.meteorapp.com/#/signin) button in the upper right corner of the navbar, then select "Sign in" to go to the following page and login. You must have been previously registered with the system to use this option:
  
@@ -102,7 +113,7 @@ Alternatively, you can select ["Sign up"](http://eatereez.meteorapp.com/#/signup
 
 ![](images/signup-page.png)
 
-### User Reviews
+## User Reviews
 
 Once you are logged in, you can add reviews on the [Restaurant Details](http://eatereez.meteorapp.com/#/) page of each restaurant, as well as report the reviews of other users.
 
@@ -110,20 +121,20 @@ Once you are logged in, you can add reviews on the [Restaurant Details](http://e
 
 ![](images/report-page.png)
 
-### Submit Eatery
+## Submit Eatery
 
 Logged in users will also be able to [submit new restaurants](http://eatereez.meteorapp.com/#/submit-restaurant) to the website, which will then be subject to approval by site admins before being published.
 
 ![](images/submit-eatery-page.png)
 
 
-### Map
+## Map
 
 Users can use the map to help them navigate to their restaurants. The map will display pins of all restaurant locations. An info will show when you click on the markers. It will display the name  Below the map page are instructions on how to use the map.
 
 ![](images/Map.png)
 
-### Community Feedback
+## Community Feedback
 
 Jaylin Kuoha (Food loving Mathematics Major)
 - Could use something extra to fill in the white space
@@ -141,7 +152,7 @@ Jake Camarao (CS major)
 - Likes the convenient search bar on the landing page
 - Wants to sort the restaurants by stars
 
-### Developer Guide
+## Developer Guide
 
 1. Clone the repo from [here](https://github.com/nutrition-positions/eatereez)
 2. Using terminal navigate to the correct directory ".../eatereez/app/"
@@ -153,7 +164,7 @@ Note: You will need to provide your Google map API key. You can get a Google API
 
 This should have a running localhost of our application.
 
-### Group Members
+## Group Members
 [Ryan Ell](https://ryanell.github.io)
 
 [Tommy Herman](https://hermantw.github.io)
