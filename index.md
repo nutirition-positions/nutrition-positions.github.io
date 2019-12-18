@@ -146,12 +146,18 @@ Matthew Mackenzie (At the time starving Geology Major)
 - It's pretty impressive, but I don't like the green bar at the bottom having a bunch of white below it
 - The logo is pretty gnar
 
-Somebody
+Dani LaBelle
 The homepage looks neat and clean, love the logo on the background.  However, the logo, search bar, and button seem off center. I really like the way the map looks but the links are broken and the “How To” section feels a little out of place.  I like having both the location and address listed.  I’d like that if i clicked on the menu or website link it would open in a new tab.   Loving the reviews! Wish I could sort by them.  Also I like the submit a restaurant page because there are so many sites that miss info and to be able to submit new info makes me feel good and not annoyed it’s missing something.
 
 Jake Camarao (CS major)
 - Likes the convenient search bar on the landing page
 - Wants to sort the restaurants by stars
+
+Naomi Franklin (Liberal Arts Major and self proclaimed food connoisseour)
+-Liked the map page but "how to guide" seemed odd to have.
+-Restaurunt details page was nice and liked that included a menu but having a snippet of the google map location similar to yelp does it would make it easier to use so you don't have to go back and forth between the two pages
+-Thought slides of restaurunts on home page was a neat feature
+-Liked being able to submit restaurunts since the there are a lot of food trucks that come and go depending on the semester. Thought adding an alert to the home page for new restaurunts and food trucks would be amazing.
 
 ## Developer Guide
 
