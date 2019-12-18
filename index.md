@@ -21,15 +21,39 @@ Eatereez has completed each of its milestones by the launch deadline, which are 
 
 [Milestone 3](https://github.com/nutrition-positions/eatereez/projects/3) shows the tasks completed in the last milestone. This milestone's goal was to give the application an aesthetic touch which includes an overhaul of the landing page, restaurant page, and other small things. Included in our goals is to complete the implementation of the restaurant reviews and map. After some user reviews, a lot of functionality was added for the admin to be able to better control the website.
 
-## User Guide
+### User Guide
 
-This section provides a walkthrough of the Eatereez user interface and its capabilities. 
+Logging In:
+
+Searching For Restaurants:
+There are two ways of searching for restaurant. 
+
+![](images/LandingPage-Greet.png)
+The first is from the Landing Page with the use of the search bar here. Type the name of the restaurant and press either the search button or enter key will bring your search request to the restaurant list.
+
+The main way of searching through the list is to use the List Restaurant Page. This page has four options to adjust the scope of your search. First option one is to search by name. Second option is to search by keywords such as "sandwhiches" or "Chinese". The third option is for vegetarians and vegans. Last option has locations.
+
+Adding Reviews:
+
+Using the Map:
+
 
 ### Landing Page
 
-The [landing page](http://eatereez.meteorapp.com/#/) is presented to users when they visit the top-level URL to the site. It has a description of the purpose and features of Eatereez. The landing page provides the user with a search bar so they can get straight into searching for restaurants. Three restaurants are also chosen at random each time the page is loaded which let the user choose an eatery that they might not typically look for.
-
+The [landing page](http://eatereez.meteorapp.com/#/) is presented to users when they visit the top-level URL to the site. It has a description of the purpose and features of Eatereez. The landing page contains four sections. 
 ![](images/landing-page.png)
+
+The first section provides the user with a button and a search bar so they can get straight into searching. This section will also greet the user if they are logged in.
+![](images/LandingPage-Greet.png)
+
+Second section contains information about the site. All icons and text here are clickable and will redirect the user to the relevant page. 
+![](images/LandingPage-Info1.png)
+
+Third section has a picture carousel with three random restaurants of the list. This section is to help alleviate deciding where to eat should the user been unable to decide. 
+![](images/LandingPage-Random.png)
+
+The fourth section is a reminder to login so that the user can take advantage of all functionalities such as making comments or reporting comments.
+![](images/LandingPage-Info2.png)
 
 ### Index pages (Find Food, Map, and Restaurant Details pages)
 
