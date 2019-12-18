@@ -26,6 +26,7 @@ Eatereez has completed each of its milestones by the launch deadline, which are 
 Logging In:
 
 Searching For Restaurants:
+
 There are two ways of searching for restaurant. 
 
 ![](images/LandingPage-Greet.png)
@@ -34,7 +35,19 @@ The first is from the Landing Page with the use of the search bar here. Type the
 ![](images/ListRestaurant-Filters.png)
 The main way of searching through the list is to use the List Restaurant Page. This page has four options to adjust the scope of your search. First option one is to search by name. Second option is to search by keywords such as "sandwhiches" or "Chinese". The third option is for vegetarians and vegans. Last option has locations.
 
-Adding Reviews:
+Submitting Reviews:
+
+There are reviews in the restaurant detail page. You can get to the restaurant detail page by navigating through the restaurant list.
+
+![](images/ListRestaurants-M3.png)
+
+Underneath the logo, there are a list of reviews. Here you can see who, how many stars they give, and what they thought. You can also delete your own reviews or report other reviews if they contain inappropriate content.
+
+![](images/Reviews.png)
+
+At the bottom, you can write your review here. Give your review title, the number of stars, and your thoughts.
+
+![](images/SubmittingReview.png)
 
 Using the Map:
 
@@ -106,6 +119,13 @@ Jaylin Kuoha (Food loving Mathematics Major)
 Matthew Mackenzie (At the time starving Geology Major)
 - It's pretty impressive, but I don't like the green bar at the bottom having a bunch of white below it
 - The logo is pretty gnar
+
+Somebody
+The homepage looks neat and clean, love the logo on the background.  However, the logo, search bar, and button seem off center. I really like the way the map looks but the links are broken and the “How To” section feels a little out of place.  I like having both the location and address listed.  I’d like that if i clicked on the menu or website link it would open in a new tab.   Loving the reviews! Wish I could sort by them.  Also I like the submit a restaurant page because there are so many sites that miss info and to be able to submit new info makes me feel good and not annoyed it’s missing something.
+
+Jake Camarao (CS major)
+- Likes the convenient search bar on the landing page
+- Wants to sort the restaurants by stars
 
 ### Group Members
 [Ryan Ell](https://ryanell.github.io)
