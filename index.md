@@ -30,6 +30,7 @@ Eatereez has completed each of its milestones by the launch deadline, which are 
 * [Map](#map)
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
+* [Group Members](#group-members)
 
 
 ## User Guide
