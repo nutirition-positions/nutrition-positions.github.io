@@ -47,7 +47,7 @@ Third section has a picture carousel with three random eateries included in the 
 The fourth section is a reminder to login so that the user can take advantage of all functionalities such as making comments or reporting comments.
 ![](images/LandingPage-Info2.png)
 
-####Find Food
+#### Find Food
 
 The [Find Food](http://eatereez.meteorapp.com/#/food) page displays a list of restaurants, with the ability to be filtered by food type (Hawaiian, Chinese, Sandwiches, etc...), location, and dietary preference (Vegan, vegetarian). Each restaurant will also have an average rating displayed:
 
@@ -60,6 +60,8 @@ The [Map](http://eatereez.meteorapp.com/#/map) page shows a map with various pin
 ![](images/Final-map.png)
 
 ![](/images/MapMarkers.png)
+
+#### Restaurant Details
 
 The [Restaurant Details](http://eatereez.meteorapp.com/#/details/cd8Yp98TZpR4fnpqT) pages shows even more details about each restaurant, such as their menu, full description and the full list of reviews:
 
