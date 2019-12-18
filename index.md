@@ -94,11 +94,13 @@ Eatereez provides four public pages (Find Food, Map, and Restaurant Details page
 
 The [Find Food](http://eatereez.meteorapp.com/#/food) page displays a list of restaurants, with the ability to be filtered by food type (Hawaiian, Chinese, Sandwiches, etc...), location, and dietary preference (Vegan, vegetarian). Each restaurant will also have an average rating displayed:
 
-![](images/ListRestaurant-M3.png)
+![](images/ListRestaurunt-M3.png)
 
-The [Map](http://eatereez.meteorapp.com/#/map) page shows a map with various pins at the places you can get food:
+## Map
 
-![](images/Map-MS2.png)
+Users can use the [map](http://eatereez.meteorapp.com/#/map) to help them navigate to their restaurants. The map will display pins of all restaurant locations. An info will show when you click on the markers. It will display the name  Below the map page are instructions on how to use the map.
+
+![](images/Map.png)
 
 The [Restaurant Details](http://eatereez.meteorapp.com/#/details/cd8Yp98TZpR4fnpqT) pages shows even more details about each restaurant, such as their menu, full description and the full list of reviews:
 
@@ -129,11 +131,7 @@ Logged in users will also be able to [submit new restaurants](http://eatereez.me
 ![](images/submit-eatery-page.png)
 
 
-## Map
 
-Users can use the map to help them navigate to their restaurants. The map will display pins of all restaurant locations. An info will show when you click on the markers. It will display the name  Below the map page are instructions on how to use the map.
-
-![](images/Map.png)
 
 ## Community Feedback
 
