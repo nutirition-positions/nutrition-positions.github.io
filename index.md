@@ -57,7 +57,7 @@ Using the Map:
 
 You can navigate to the map via the top navbar. There are pins where the restaurants are located. By clicking the pins, you can see what restaurants there and a link to more information.
 
-![](MapMarkers.png)
+![](images/MapMarkers.png)
 
 ### Landing Page
 
