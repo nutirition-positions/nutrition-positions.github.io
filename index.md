@@ -57,9 +57,9 @@ The [Find Food](http://eatereez.meteorapp.com/#/food) page displays a list of re
 
 The [Map](http://eatereez.meteorapp.com/#/map) page shows a map with various pins at the places you can get food. By clicking the pins, you can see what restaurants there and a link to more information.
 
-![](/images/MapMarkers.png)
-
 ![](images/Final-map.png)
+
+![](/images/MapMarkers.png)
 
 The [Restaurant Details](http://eatereez.meteorapp.com/#/details/cd8Yp98TZpR4fnpqT) pages shows even more details about each restaurant, such as their menu, full description and the full list of reviews:
 
