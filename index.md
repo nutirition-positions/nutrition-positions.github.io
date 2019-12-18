@@ -143,13 +143,13 @@ Jake Camarao (CS major)
 
 ### Developer Guide
 
-1. Clone the repo from ["here"](https://github.com/nutrition-positions/eatereez)
+1. Clone the repo from [here](https://github.com/nutrition-positions/eatereez)
 2. Using terminal navigate to the correct directory ".../eatereez/app/"
 3. Type "meteor npm install"
 4. Type "npm install react-slide-image"
 5. Lastly type "meteor npm run start" 
 
-Note: You will need to provide your Google map API key. You can get a Google API key ["here"](https://developers.google.com/maps/documentation/javascript/get-api-key).
+Note: You will need to provide your Google map API key. You can get a Google API key [here](https://developers.google.com/maps/documentation/javascript/get-api-key).
 
 This should have a running localhost of our application.
 
