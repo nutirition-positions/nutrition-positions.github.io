@@ -1,4 +1,4 @@
-![](images/landing-page.png)
+![](images/LandingPage-M3.png)
 ## Overview 
 
 Eatereez is a web application that provides pages to locate, rate, and view the menus of the restaurants and other food places on the UH Manoa campus. In addition, it will allow users to search for restaurants based on both meal preferences (e.g. burrito) and dietary restrictions (e.g. vegetarian, gluten-free, etc.).  It illustrates various technologies including:
