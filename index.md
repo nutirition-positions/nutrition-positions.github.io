@@ -154,10 +154,10 @@ Jake Camarao (CS major)
 - Wants to sort the restaurants by stars
 
 Naomi Franklin (Liberal Arts Major and self proclaimed food connoisseour)
--Liked the map page but "how to guide" seemed odd to have.
--Restaurunt details page was nice and liked that included a menu but having a snippet of the google map location similar to yelp does it would make it easier to use so you don't have to go back and forth between the two pages
--Thought slides of restaurunts on home page was a neat feature
--Liked being able to submit restaurunts since the there are a lot of food trucks that come and go depending on the semester. Thought adding an alert to the home page for new restaurunts and food trucks would be amazing.
+- Liked the map page but "how to guide" seemed odd to have.
+- Restaurunt details page was nice and liked that included a menu but having a snippet of the google map location similar to yelp does it would make it easier to use so you don't have to go back and forth between the two pages
+- Thought slides of restaurunts on home page was a neat feature
+- Liked being able to submit restaurunts since the there are a lot of food trucks that come and go depending on the semester. Thought adding an alert to the home page for new restaurunts and food trucks would be amazing.
 
 ## Developer Guide
 
