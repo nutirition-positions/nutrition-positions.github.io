@@ -122,7 +122,7 @@ Once you are logged in, you can add reviews on the [Restaurant Details](http://e
 
 ![](images/submit-review-page.png)
 
-![](images/report-page.png)
+![](images/Report-Review.png)
 
 ## Submit Eatery
 
