@@ -39,7 +39,7 @@ Submitting Reviews:
 
 There are reviews in the restaurant detail page. You can get to the restaurant detail page by navigating through the restaurant list.
 
-![](images/ListRestaurants-M3.png)
+![](images/RestaurantDetails-M3.png)
 
 Underneath the logo, there are a list of reviews. Here you can see who, how many stars they give, and what they thought. You can also delete your own reviews or report other reviews if they contain inappropriate content.
 
@@ -75,7 +75,7 @@ Eatereez provides four public pages that present the contents of the database or
 
 The [Find Food](http://eatereez.meteorapp.com/#/food) page displays a list of restaurants, with the ability to be filtered by food type (Hawaiian, Chinese, Sandwiches, etc...), location, and dietary preference (Vegan, vegetarian). Each restaurant will also have an average rating displayed:
 
-![](images/Restaurant List-MS2.png)
+![](images/ListRestaurant-M3.png)
 
 The [Map](http://eatereez.meteorapp.com/#/map) page shows a map with various pins at the places you can get food:
 
@@ -83,7 +83,7 @@ The [Map](http://eatereez.meteorapp.com/#/map) page shows a map with various pin
 
 The [Restaurant Details](http://eatereez.meteorapp.com/#/details/cd8Yp98TZpR4fnpqT) pages shows even more details about each restaurant, such as their menu, full description and the full list of reviews:
 
-![](images/Restaurant Details-MS2.png)
+![](images/RestaurantDetails-M3.png)
 
 ### Sign in and sign up
 
