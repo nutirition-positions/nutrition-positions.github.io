@@ -21,13 +21,13 @@ Currently Eatereez is undergoing the last stage before full launch. Our final go
 
 [Milestone 3](https://github.com/nutrition-positions/eatereez/projects/3) shows the current status of the project as it heads towards the last milestone. This milestone includes making the pages more pleasing to the eye and the implementation of the map.
 
-## Project Pages
+## User Guide
 
 This section provides a walkthrough of the Eatereez user interface and its capabilities. 
 
 ### Landing Page
 
-The [landing page](http://eatereez.meteorapp.com/#/) is presented to users when they visit the top-level URL to the site. It will have a description of the purpose and features of Eatereez. This will change in completion of Milestone 3.
+The [landing page](http://eatereez.meteorapp.com/#/) is presented to users when they visit the top-level URL to the site. It has a description of the purpose and features of Eatereez. The landing page provides the user with a search bar so they can get straight into searching for restaurants. Three restaurants are also chosen at random each time the page is loaded which let the user choose an eatery that they might not typically look for.
 
 ![](images/landing-page.png)
 
@@ -68,6 +68,10 @@ Once you are logged in, you can add reviews on the [Review](http://eatereez.mete
 Logged in users will also be able to [submit new restaurants](http://eatereez.meteorapp.com/#/submit-restaurant) to the website, which will then be subject to approval by site admins before being published.
 
 ![](images/submit-eatery-page.png)
+
+### Community Feedback
+
+
 
 ### Group Members
 [Ryan Ell](https://ryanell.github.io)
