@@ -1,4 +1,4 @@
-![](images/landing-page.png)
+![](images/Final-landing.png)
 ## Overview 
 
 Eatereez is a web application that provides pages to locate, rate, and view the menus of the restaurants and other food places on the UH Manoa campus. In addition, it will allow users to search for restaurants based on both meal preferences (e.g. burrito) and dietary restrictions (e.g. vegetarian, gluten-free, etc.).  It illustrates various technologies including:
@@ -15,99 +15,93 @@ The web application is displayed here:
 
 Eatereez has completed each of its milestones by the launch deadline, which are listed below
  
-[Milestone 1](https://github.com/nutrition-positions/eatereez/projects/1) shows the current status of the project at the completion of the first milestone, which includes mockups of each of the project pages.
+[Milestone 1](https://github.com/nutrition-positions/eatereez/projects/1) shows tasks finished for the project at the
+ completion of the
+ first milestone, which includes mockups of each of the project pages.
 
-[Milestone 2](https://github.com/nutrition-positions/eatereez/projects/2) shows the current status of the project as it heads towards the second milestone, which involves creating functional webpages for the website.
+[Milestone 2](https://github.com/nutrition-positions/eatereez/projects/2) shows tasks that were finished for the
+ second milestone of the project, which involves creating functional webpages for the website.
 
 [Milestone 3](https://github.com/nutrition-positions/eatereez/projects/3) shows the tasks completed in the last milestone. This milestone's goal was to give the application an aesthetic touch which includes an overhaul of the landing page, restaurant page, and other small things. Included in our goals is to complete the implementation of the restaurant reviews and map. After some user reviews, a lot of functionality was added for the admin to be able to better control the website.
 
 ### User Guide
 
-Logging In:
-
-Searching For Restaurants:
-
-There are two ways of searching for restaurant. 
-
-![](images/LandingPage-Greet.png)
-The first is from the Landing Page with the use of the search bar here. Type the name of the restaurant and press either the search button or enter key will bring your search request to the restaurant list.
-
-![](images/ListRestaurant-Filters.png)
-The main way of searching through the list is to use the List Restaurant Page. This page has four options to adjust the scope of your search. First option one is to search by name. Second option is to search by keywords such as "sandwhiches" or "Chinese". The third option is for vegetarians and vegans. Last option has locations.
-
-Submitting Reviews:
-
-There are reviews in the restaurant detail page. You can get to the restaurant detail page by navigating through the restaurant list.
-
-![](images/RestaurantDetails-M3.png)
-
-Underneath the logo, there are a list of reviews. Here you can see who, how many stars they give, and what they thought. You can also delete your own reviews or report other reviews if they contain inappropriate content.
-
-![](images/Reviews.png)
-
-At the bottom, you can write your review here. Give your review title, the number of stars, and your thoughts.
-
-![](images/SubmittingReview.png)
-
-Using the Map:
-
-
-### Landing Page
+#### Landing Page
 
 The [landing page](http://eatereez.meteorapp.com/#/) is presented to users when they visit the top-level URL to the site. It has a description of the purpose and features of Eatereez. The landing page contains four sections. 
 ![](images/LandingPage-M3.png)
 
 The first section provides the user with a button and a search bar so they can get straight into searching. This section will also greet the user if they are logged in.
-![](images/LandingPage-GreetUser.png)
+![](images/LandingPage-Greet-User.png)
 
 Second section contains information about the site. All icons and text here are clickable and will redirect the user to the relevant page. 
 ![](images/LandingPage-Info1.png)
 
-Third section has a picture carousel with three random restaurants of the list. This section is to help alleviate deciding where to eat should the user been unable to decide. 
+Third section has a picture carousel with three random eateries included in the application. This section is to help
+ alleviate
+ deciding
+ where to eat
+ should the user been unable to decide. 
 ![](images/LandingPage-Random.png)
 
 The fourth section is a reminder to login so that the user can take advantage of all functionalities such as making comments or reporting comments.
 ![](images/LandingPage-Info2.png)
 
-### Index pages (Find Food, Map, and Restaurant Details pages)
-
-Eatereez provides four public pages that present the contents of the database organized in various ways. 
+####Find Food
 
 The [Find Food](http://eatereez.meteorapp.com/#/food) page displays a list of restaurants, with the ability to be filtered by food type (Hawaiian, Chinese, Sandwiches, etc...), location, and dietary preference (Vegan, vegetarian). Each restaurant will also have an average rating displayed:
 
-![](images/ListRestaurant-M3.png)
+![](images/Final-food-finder.png)
+
+#### Map
 
 The [Map](http://eatereez.meteorapp.com/#/map) page shows a map with various pins at the places you can get food:
 
-![](images/Map-MS2.png)
+![](images/Final-map.png)
 
 The [Restaurant Details](http://eatereez.meteorapp.com/#/details/cd8Yp98TZpR4fnpqT) pages shows even more details about each restaurant, such as their menu, full description and the full list of reviews:
 
-![](images/RestaurantDetails-M3.png)
+![](images/Final-restaurant-details.png)
 
-### Sign in and sign up
+#### Sign in and sign up
 
-Click on the ["Login"](http://eatereez.meteorapp.com/#/signin) button in the upper right corner of the navbar, then select "Sign in" to go to the following page and login. You must have been previously registered with the system to use this option:
+Click on the ["Sign up"](http://eatereez.meteorapp.com/#/signup) to go to the following page and register as a new
+ user.  You must have been previously registered with the system to use this option:
  
-![](images/signin-page.png)
+![](images/Final-signup.png)
   
-Alternatively, you can select ["Sign up"](http://eatereez.meteorapp.com/#/signup) to go to the following page and register as a new user:
+Alternatively, you can select ["Sign In"](http://eatereez.meteorapp.com/#/signin) button in the upper right corner of
+ the navbar to go to the following page and login.
 
-![](images/signup-page.png)
+![](images/Final-signin.png)
 
-### User Reviews
+#### Leave Reviews
 
-Once you are logged in, you can add reviews on the [Restaurant Details](http://eatereez.meteorapp.com/#/) page of each restaurant, as well as report the reviews of other users.
+Once you are logged in, you can add reviews on the [Restaurant Details](http://eatereez.meteorapp.com/#/) page of
+ each restaurant, as well as report the reviews of other users by clicking on "Report" below the other users' review.
 
-![](images/submit-review-page.png)
+![](images/Final-reviews.png)
 
-![](images/report-page.png)
+![](images/Final-report-listing.png)
 
-### Submit Eatery
+#### Submit Eatery
 
 Logged in users will also be able to [submit new restaurants](http://eatereez.meteorapp.com/#/submit-restaurant) to the website, which will then be subject to approval by site admins before being published.
 
-![](images/submit-eatery-page.png)
+![](images/Final-submit-restaurant.png)
+
+#### Admin
+
+Admin users have the ability to read all of the submitted restaurants, reports and reported reviews on the Admin page
+. There they can delete reported reviews or unreport the reivews as well as add the submitted restaurants to the
+ restaurant database after careful consideration.
+ 
+ ![](images/Final-admin.png)
+ 
+ Admin users can also edit the restaurant pages as well as delete restaurants from the database with the extra admin
+  options box that shows up on the restaurant details page.
+ 
+ ![](images/Final-admin-restaurant-details.png)
 
 ### Community Feedback
 
