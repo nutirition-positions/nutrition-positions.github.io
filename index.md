@@ -31,6 +31,7 @@ There are two ways of searching for restaurant.
 ![](images/LandingPage-Greet.png)
 The first is from the Landing Page with the use of the search bar here. Type the name of the restaurant and press either the search button or enter key will bring your search request to the restaurant list.
 
+![](images/ListRestaurant-Filters.png)
 The main way of searching through the list is to use the List Restaurant Page. This page has four options to adjust the scope of your search. First option one is to search by name. Second option is to search by keywords such as "sandwhiches" or "Chinese". The third option is for vegetarians and vegans. Last option has locations.
 
 Adding Reviews:
@@ -41,10 +42,10 @@ Using the Map:
 ### Landing Page
 
 The [landing page](http://eatereez.meteorapp.com/#/) is presented to users when they visit the top-level URL to the site. It has a description of the purpose and features of Eatereez. The landing page contains four sections. 
-![](images/landing-page.png)
+![](images/LandingPage-M3.png)
 
 The first section provides the user with a button and a search bar so they can get straight into searching. This section will also greet the user if they are logged in.
-![](images/LandingPage-Greet.png)
+![](images/LandingPage-GreetUser.png)
 
 Second section contains information about the site. All icons and text here are clickable and will redirect the user to the relevant page. 
 ![](images/LandingPage-Info1.png)
