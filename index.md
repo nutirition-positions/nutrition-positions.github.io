@@ -94,7 +94,7 @@ Eatereez provides four public pages (Find Food, Map, and Restaurant Details page
 
 The [Find Food](http://eatereez.meteorapp.com/#/food) page displays a list of restaurants, with the ability to be filtered by food type (Hawaiian, Chinese, Sandwiches, etc...), location, and dietary preference (Vegan, vegetarian). Each restaurant will also have an average rating displayed:
 
-![](images/ListRestaurunt-M3.png)
+![](images/ListRestaurant-M3.png)
 
 ## Map
 
