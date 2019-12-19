@@ -142,7 +142,7 @@ Jaylin Kuoha (Food loving Mathematics Major)
 
 Matthew Mackenzie (At the time starving Geology Major)
 - It's pretty impressive, but I don't like the green bar at the bottom having a bunch of white below it
-- The logo is pretty gnar
+- The logo is pretty gnarly
 
 Dani LaBelle (Liberal Arts Major and a very particular eater)
 -The homepage looks neat and clean, love the logo on the background
